@@ -1,4 +1,4 @@
-# **PROJECT TITLE** 🚧 ![StatusBadge](https://badgen.net/badge/Status/Completed/green) ![StatusBadge](https://badgen.net/badge/Status/In%20Progress/orange) ![StatusBadge](https://badgen.net/badge/Status/Not%20Completed/red) 
+# **FANATEC PODIUM KILL-SWITCH REPLICA** 🚨 ![StatusBadge](https://badgen.net/badge/Status/Completed/green)
 
 Tags: (https://shields.io/)
 
