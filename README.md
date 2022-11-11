@@ -1,7 +1,16 @@
 # **FANATEC PODIUM KILL-SWITCH REPLICA** 🚨 ![StatusBadge](https://badgen.net/badge/Status/Completed/green)
 
-Tags: (https://shields.io/)
+**Tags:**
 
+![Topic](https://img.shields.io/badge/Topic-Simracing-red?style=for-the-badge)
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-success?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Cost-Cheap-yellow?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Tools-3D%20Printer-blueviolet?style=for-the-badge)
+
+![Topic](https://img.shields.io/badge/Wiring%20Diagram-Avaiable%20for%20Free-informational?style=for-the-badge)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Topic](https://img.shields.io/badge/3D%20Models-Avaiable%20for%20Free-informational?style=for-the-badge)
 
 
 ---
@@ -17,22 +26,22 @@ Year / quarter / month / period (Optional)
 </p>
 
 ### **Features**
-- 
-- 
-- 
+- Comfortably and remotely turn ON / OFF your Fanatec DD1 / DD2, without having to reach the button at the rear of the wheelbase.
+- Instantly turn OFF the power using the emergency button in case of problems with the Wheel Base.
+- Thoose are the same Features of the Official "Podium Kill Switch" by Fanatec.
 
 
 ## **Ratings**
 
-**Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
-**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3/5  ⭐⭐⭐⚫⚫
+**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-**Cost:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Cost:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-**Usefulness:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
+**Usefulness:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3/5  ⭐⭐⭐⚫⚫
 
-**Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⚫⚫⚫⚫
 
 ## **REPORT** (?)
 
@@ -58,14 +67,13 @@ Check the report in the repository if avaiable.
 </p>
 
 **Hardware components:**
-- 1 x Arduino
-- 5 x 220Ohm Resistor 
-- ecc
+- 1 x **Momentary** Button. *(Led is Optional)*
+- 1 x **Emergency Button** Switch.
+- 
 
 **Necessary tools:**
 - Soldering Iron
 - 3D Printer 
-- ecc
 
 ### **How to assemble it**
 
