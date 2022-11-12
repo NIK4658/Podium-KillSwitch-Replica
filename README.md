@@ -1,4 +1,4 @@
-# **FANATEC PODIUM KILL-SWITCH REPLICA** 🚨 ![StatusBadge](https://badgen.net/badge/Status/Completed/green)
+# **FANATEC™ PODIUM KILL-SWITCH REPLICA** 🚨 ![StatusBadge](https://badgen.net/badge/Status/Completed/green)
 
 **Tags:**
 
@@ -26,9 +26,9 @@ Year / quarter / month / period (Optional)
 </p>
 
 ### **Features**
-- Comfortably and remotely turn ON / OFF your Fanatec DD1 / DD2, without having to reach the button at the rear of the wheelbase.
-- Instantly turn OFF the power using the emergency button in case of problems with the Wheel Base.
-- Thoose are the same Features of the Official "Podium Kill Switch" by Fanatec.
+- **Comfortably and remotely** turn ON / OFF your Fanatec™ DD1 / DD2, *without having to reach* the button at the **rear** of the wheelbase.
+- **Instantly turn OFF** the power using the **emergency button** in case of problems with the Wheel Base.
+- Thoose are **the same Features of the Official "Podium Kill Switch" by Fanatec™.**
 
 
 ## **Ratings**
@@ -42,10 +42,6 @@ Year / quarter / month / period (Optional)
 **Usefulness:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3/5  ⭐⭐⭐⚫⚫
 
 **Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⚫⚫⚫⚫
-
-## **REPORT** (?)
-
-Check the report in the repository if avaiable.
 
 ---
 
@@ -69,20 +65,30 @@ Check the report in the repository if avaiable.
 **Hardware components:**
 - 1 x **Momentary** Button. *(Led is Optional)*
 - 1 x **Emergency Button** Switch.
-- 
+- 1 x **RJ11 6P6C Connector** Breakout Board Module. (PCB) *(Optional)*
+- 1 x Cable with **both** *RJ12 (6P6C)* end type.
+- 1 x 3D Printed Case *(Optional)*
 
 **Necessary tools:**
 - Soldering Iron
 - 3D Printer 
 
-### **How to assemble it**
+### **How to assemble it** (WITH RJ11 6P6C Connector Module)
 
-1. Phase 1
-2. Phase 2
-3. Phase 3
-4. Phase 4
-5. Phase 5
-6. ecc
+1. Screw the Buttons Inside the **3D printed Case**.
+2. Wire the PCB pins with the buttons and the led **according to the Wiring Diagram**.
+3. Close the 3D printed Case.
+4. *Connect the cable* to the end of the Board and to the DD1 / DD2 WheelBase.
+5. Place the case in a *comfortable place* and **start using it**.
+
+### **How to assemble it** (WITHOUT RJ11 6P6C Connector Module)
+
+1. Open and **strip the wires** of the RJ12 (6P6C) cable.
+2. Screw the Buttons Inside the 3D printed Case.
+3. Wire the **stripped cables** with the buttons and the led **according to the Wiring Diagram**.
+3. Close the 3D printed Case.
+4. *Connect the cable* to the DD1 / DD2 WheelBase.
+5. Place the case in a *comfortable place* and **start using it**.
 
 ---
 
