@@ -63,8 +63,8 @@ Year / quarter / month / period (Optional)
 </p>
 
 **Hardware components:**
-- 1 x **Momentary** Button. *(Led is Optional)*
-- 1 x **Emergency Button** Switch.
+- 1 x **Momentary** Button. 19mm.  *(Led is Optional)*
+- 1 x **Emergency Button** Switch. 19mm.
 - 1 x **RJ11 6P6C Connector** Breakout Board Module. (PCB) *(Optional)*
 - 1 x Cable with **both** *RJ12 (6P6C)* end type.
 - 1 x 3D Printed Case *(Optional)*
