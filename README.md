@@ -19,10 +19,9 @@
 
 [Text Description]
 
-Year / quarter / month / period (Optional)
 
 <p class="Project Presentation Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Renders/SideMain.png" width="1000">
 </p>
 
 ### **Features**
@@ -99,8 +98,13 @@ Year / quarter / month / period (Optional)
 
 ### **RENDER**
 
-<p class="Single Image Render?" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+<p class="Render1 & 2" align="center">
+  <img align="center" src="./src/images/Renders/Front.png" width="400">
+  <img align="center" src="./src/images/Renders/SideMain.png" width="400">
+</p>
+
+<p class="Render3" align="center">
+  <img align="center" src="./src/images/Renders/SideTop.png" width="1000">
 </p>
 
 ## **IRL (Project Completed)**
