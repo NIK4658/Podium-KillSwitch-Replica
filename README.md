@@ -51,10 +51,13 @@ Year / quarter / month / period (Optional)
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
 
-(One or two images that contains multiple view of one or many 3D models)
+---
 
-(Do you want to have it printed? Click Here.)
+### **3D MODEL FILES:**
 
+**All** 3D models files are **available for free** and *can be found in the repository.*
+
+[//]: # (Do you want to have it printed? Click Here.)
 
 ## **Wiring diagram** (if necessary)
 
