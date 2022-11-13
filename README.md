@@ -70,6 +70,8 @@
 - 1 x **RJ11 6P6C Connector** Breakout Board Module. (PCB) *(Optional)*
 - 1 x Cable with **both** *RJ12 (6P6C)* end type.
 - 1 x 3D Printed Case *(Optional)*
+- 4 x M5 Screws 50mm
+- 4 x M5 Nuts
 
 **Necessary tools:**
 - Soldering Iron
