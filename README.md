@@ -54,7 +54,7 @@ Also, *no line of code or an arduino* is needed, because the DD1 / DD2 (ECU) man
 
 ---
 
-## **3D MODELS IMAGES** (if necessary)
+## **3D MODELS IMAGES** 
 
 <p class="3D MODELS IMAGES" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
@@ -68,7 +68,7 @@ Also, *no line of code or an arduino* is needed, because the DD1 / DD2 (ECU) man
 
 [//]: # (Do you want to have it printed? Click Here.)
 
-## **Wiring diagram** (if necessary)
+## **Wiring diagram** 
 
 <p class="Electrical Diagram Image" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
@@ -108,7 +108,7 @@ Also, *no line of code or an arduino* is needed, because the DD1 / DD2 (ECU) man
 
 ## **GALLERY:**
 
-### **RENDER**
+### **RENDERS**
 
 <p class="Render1 & 2" align="center">
   <img align="center" src="./src/images/Renders/Front.png" width="400">
