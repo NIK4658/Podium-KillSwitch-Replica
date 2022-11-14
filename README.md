@@ -17,7 +17,17 @@
 
 ## **PROJECT DESCRIPTION:**
 
-[Text Description]
+This project is a **DIY hardware project** and it's a replica of the *FANATEC™ PODIUM KILL-SWITCH*.
+
+The *purpose* of this project is to create a perfect replica of the *FANATEC™* product, with **the exact same features** but a much *cheaper price*.
+
+Thanks to this box, It's possible to *turn ON* and *OFF* the DD1 / DD2 base **comfortably**.
+
+Furthermore, with the *emergency button*, the power supply can be **switched off immediately** in case of **danger**.
+
+This DIY project is **way cheaper** than the official one.
+
+Also, *no line of code or an arduino* is needed, because the DD1 / DD2 (ECU) manages everything automatically.
 
 
 <p class="Project Presentation Image" align="center">
