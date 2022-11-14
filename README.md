@@ -56,8 +56,18 @@ Also, *no line of code or an arduino* is needed, because the DD1 / DD2 (ECU) man
 
 ## **3D MODELS IMAGES** 
 
+### **CASE:**
+
 <p class="3D MODELS IMAGES" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/3D%20Models/Case1.png" width="400">
+  <img align="center" src="./src/images/3D%20Models/Case2.png" width="400">
+</p>
+
+### **BACK:**
+
+<p class="3D MODELS IMAGES" align="center">
+  <img align="center" src="./src/images/3D%20Models/Back2.png" width="400">
+  <img align="center" src="./src/images/3D%20Models/Back1.png" width="400">
 </p>
 
 ---
