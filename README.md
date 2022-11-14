@@ -131,6 +131,7 @@ Also, *no line of code or an arduino* is needed, because the DD1 / DD2 (ECU) man
 
 ## **IRL (Project Completed)**
 
-<p class="Multiple IRL Images?" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+<p class="IRL Images" align="center">
+  <img align="center" src="./src/images/IRL/IRLSide1.png" width="400">
+  <img align="center" src="./src/images/IRL/IRLSide2.png" width="400">
 </p>
