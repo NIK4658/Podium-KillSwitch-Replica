@@ -81,7 +81,7 @@ Also, *no line of code or an arduino* is needed, because the DD1 / DD2 (ECU) man
 ## **Wiring diagram** 
 
 <p class="Electrical Diagram Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Wiring%20Diagram/Wiring Diagram.png" width="800">
 </p>
 
 **Hardware components:**
