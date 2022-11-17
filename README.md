@@ -8,9 +8,9 @@
 ![Topic](https://img.shields.io/badge/Cost-Cheap-yellow?style=for-the-badge)
 ![Topic](https://img.shields.io/badge/Tools-3D%20Printer-blueviolet?style=for-the-badge)
 
-![Topic](https://img.shields.io/badge/Wiring%20Diagram-Avaiable%20for%20Free-informational?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Wiring%20Diagram-Available%20for%20Free-informational?style=for-the-badge)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Topic](https://img.shields.io/badge/3D%20Models-Avaiable%20for%20Free-informational?style=for-the-badge)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Topic](https://img.shields.io/badge/3D%20Models-Available%20for%20Free-informational?style=for-the-badge)
 
 
 ---
